@@ -17,14 +17,6 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Steet, Fifth Floor, Boston, MA  02111-1307  USA
     
-**
-** The enhancing is about the accumulator register that can
-** hold a value read from a cell, and write it to a cell;
-** the & change the behaviour of , (read from a cell and store
-** into the accumulator, instead of reading from stdin and
-** writing to the current cell) and . (write accumulator
-** to the current cell, instead of writing the current cell
-** to stdout)
 */
 
 
