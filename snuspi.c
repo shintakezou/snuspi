@@ -34,8 +34,6 @@ bool debug = false;
 char buffer[LINESIZE];
 
 int  x = 0, y = 0, dx = 1, dy = 0;
-bool swapped = false;
-char accumulator = 0;
 
 struct fieldslice field[MAXHEIGHT];
 struct callstack stack[MAXCALLS];
